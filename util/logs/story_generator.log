@@ -1,0 +1,35 @@
+2025-03-25 17:38:17 - StoryGenerator - INFO - Using DASHSCOPE_API_KEY from environment variables
+2025-03-25 17:38:17 - StoryGenerator - INFO - Using Python command: python3
+2025-03-25 17:38:17 - StoryGenerator - ERROR - Application startup error: Traceback (most recent call last):
+  File "/Users/zhangqi/PycharmProjects/story_agent/main.py", line 19, in main
+    demo = create_interface()
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/zhangqi/PycharmProjects/story_agent/app.py", line 63, in create_interface
+    state_manager = StateManager()
+                    ^^^^^^^^^^^^
+NameError: name 'StateManager' is not defined
+
+2025-03-25 17:56:56 - StoryGenerator - INFO - Using DASHSCOPE_API_KEY from environment variables
+2025-03-25 17:56:56 - StoryGenerator - INFO - Using Python command: python3
+2025-03-25 17:56:56 - StoryGenerator - INFO - Starting Gradio interface...
+2025-03-25 17:57:38 - StoryGenerator - INFO - PDF已转换为 2 张页面
+2025-03-25 17:57:40 - StoryGenerator - INFO - 用户请求停止故事生成 (请求ID: 55d8cb5a-6513-4bab-a444-79adac8500ca)
+2025-03-25 17:57:54 - StoryGenerator - INFO - 用户请求停止故事生成 (请求ID: 55d8cb5a-6513-4bab-a444-79adac8500ca)
+2025-03-25 17:57:58 - StoryGenerator - INFO - 页面 1 处理完成: ### 页面信息
+
+#### 关键元素：
+- **人物**：一只白色的小猫，穿着红色的袜子。
+- **场景**：室内，背景有窗户和绿色的栏杆。
+- **事件**：小猫发现了一辆红色的小汽车玩具，非常高兴。
+- **对话**：
+  - 小猫说：“哇！是红色的汽车。我最想要的红色小汽车！”
+  - 小猫还说：“圣诞老人果然来过了。谢谢你，圣诞老人！”
+
+#### 描述：
+在这一页中，小猫兴奋地发现了它最想要的红色小汽车玩具，显然是圣诞老人送来的礼物。小猫对这份礼物感到非常开心，并向圣诞老人表示感谢。
+2025-03-25 18:37:19 - StoryGenerator - INFO - Using DASHSCOPE_API_KEY from environment variables
+2025-03-25 18:37:19 - StoryGenerator - INFO - Using Python command: python3
+2025-03-25 18:37:19 - StoryGenerator - INFO - Starting Gradio interface...
+2025-03-31 19:06:51 - StoryGenerator - INFO - Using DASHSCOPE_API_KEY from environment variables
+2025-03-31 19:06:51 - StoryGenerator - INFO - Using Python command: python3
+2025-03-31 19:06:52 - StoryGenerator - INFO - Starting Gradio interface...
